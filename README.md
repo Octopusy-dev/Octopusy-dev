@@ -39,5 +39,5 @@ On échange sur votre projet back-end ?
 📩 Besoin d’un Développeur Backend, C# .NET expérimenté, fiable et impliqué ?
 
 samuel.maussion@octopustrainingdev.net
-07.67.99.76.18
-https://calendly.com/samuel-maussion
+- 07.67.99.76.18
+- https://calendly.com/samuel-maussion
